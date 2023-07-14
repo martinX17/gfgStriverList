@@ -1,2 +1,2 @@
-# GFG StriverList
+# GFG
 Solving DSA Problems on GFG
